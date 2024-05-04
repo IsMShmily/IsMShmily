@@ -35,5 +35,7 @@
 <div>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsMShmily&theme=radical&layout=compact"  />
 </div>
-
+<div>
+  ![HuiDBK's github activity graph](https://raw.githubusercontent.com/IsMShmily/IsMShmily/output/github-contribution-grid-snake.svg)
+</div>
 <!-- IsMShmily -->
