@@ -64,9 +64,10 @@ I'm MuLei, a front-end development engineer from
 #### Warehouse language statistics
 
 <div>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsMShmily&theme=radical&layout=compact"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsMShmily&theme=radical&layout=compact"  />
 </div>
 <div>
-<img src="https://raw.githubusercontent.com/IsMShmily/IsMShmily/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/IsMShmily/IsMShmily/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
 <!-- IsMShmily -->
