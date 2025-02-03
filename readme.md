@@ -32,7 +32,7 @@ I'm MuLei, a front-end development engineer from
 
 <h4>CSS tools and specifications</h4>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Sass-000?style=flat-square&logo=sass">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Scss-000?style=flat-square&logo=sass">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Less-000?style=flat-square&logo=less">
   <img alt="Static Badge" src="https://img.shields.io/badge/-BEM specification-000?style=flat-square&logo=bem">
 </p>
